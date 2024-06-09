@@ -7,7 +7,7 @@
 - 🌱I’m currently learning Web Development
 
 ### Tech Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,materialui,tailwind,js,react,nextjs,redux,nodejs,express,mongodb,git,python,mysql,aws,linux,postman,julia,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,materialui,tailwind,js,react,nextjs,redux,nodejs,express,mongodb,git,c,python,mysql,aws,linux,postman,vscode)](https://skillicons.dev)
 
 <!--
 
