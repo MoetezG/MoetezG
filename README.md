@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a 4th Year Computer Science Student and I'm in love with Computers since i was a kid. I like Reverse Engineering, First Principle thinking & learning about underlying hardware. moreover, I'm a huge fan of Gaming & Electronic Music.
+Highly motivated and results-oriented Entry Level Full Stack Developer with 2 years of experience in developing and implementing innovative solutions.
 <!--
 
 Here are some ideas to get you started:
