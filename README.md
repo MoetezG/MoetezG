@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-Highly motivated and results-oriented Entry Level Full Stack Developer with 2 years of experience in developing and implementing innovative solutions.
+*Highly motivated and results-oriented Entry Level Full Stack Developer with 2 years of experience in developing and implementing innovative solutions.*
+
+🌏 Based in Tunis, Tunisia
+📧 Contact me moetezguesmi20@gmail.com
+🌱 I’m currently learning Web Development
+
 <!--
 
 Here are some ideas to get you started:
