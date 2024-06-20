@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,materialui,tailwind,js,react,nextjs,redux,nodejs,express,mongodb,git,c,python,mysql,aws,linux,postman)](https://skillicons.dev)
 
 <div style=" display: flex;
-  justify-content:scpace-between
+  justify-content: space-between;
   ">
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoetezG&theme=tokyonight&layout=compact" alt="mystreak"/>
