@@ -16,9 +16,10 @@
 <div style=" display: flex;
   justify-content: space-between;
   ">
-  ### Badges
-
+  
+### Badges
 <b>My GitHub Stats</b>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoetezG&theme=tokyonight&layout=compact" alt="mystreak"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoetezG&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" /></div>
 
