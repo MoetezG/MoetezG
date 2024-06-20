@@ -15,8 +15,7 @@
 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=MoetezG&theme=juicyfresh&no-bg=true" />
-<!--
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MoetezG&theme=tokyonight" alt="mystreak"/><!--
 
 Here are some ideas to get you started:
 
