@@ -13,6 +13,9 @@
 ### Tech Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,materialui,tailwind,js,react,nextjs,redux,nodejs,express,mongodb,git,c,python,mysql,aws,linux,postman,vscode)](https://skillicons.dev)
 
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=MoetezG&theme=juicyfresh&no-bg=true" />
 <!--
 
 Here are some ideas to get you started:
