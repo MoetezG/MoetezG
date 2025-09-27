@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Moetez Guesmi</h1>
 <h3 align="center">🚀 Software Engineer | Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=550&lines=Full-Stack+Developer" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://github.com/MoetezG">
