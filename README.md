@@ -57,7 +57,7 @@ Currently, I’m pursuing a **Bachelor’s in Computer Science and Multimedia**,
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoetezG&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoetezG&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=MoetezG&theme=radical" height="160"/>
 </p>
 
 <p align="center">
