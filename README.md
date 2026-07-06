@@ -60,10 +60,3 @@ Currently, I’m pursuing a **Bachelor’s in Computer Science and Multimedia**,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoetezG&theme=radical" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoetezG&layout=compact&theme=radical" height="140"/>
-</p>
-
----
-
-<p align="center">✨ _"Code is like humor. When you have to explain it, it’s bad."_ ✨</p>
